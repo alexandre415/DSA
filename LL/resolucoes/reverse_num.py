@@ -1,10 +1,5 @@
-#AI: Certainly!
-# You can create a function that takes in a number and returns its reverse.
-# Here’s how you can do it:
-#
-
 def reverse_number(num):
-    # Convert the number to a string
+    
     
   # Reverse the number
   reverse = num[::-1]
